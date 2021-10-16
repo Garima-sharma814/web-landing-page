@@ -1,5 +1,5 @@
 # My-website
-- This is my personal website made with html.
+- This is just a simple landing page.
 - Fork this Repository to make your own website, With making minor changes in the code.
 
 
